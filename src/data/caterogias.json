@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "nome": "Pizza",
+        "foto": "https://www.seara.com.br/wp-content/uploads/2022/06/Seara-Pizza-Calabresa-Verso.png"
+    },
+    {
+        "id": "2",
+        "nome": "Drinks",
+        "foto": "https://freepngimg.com/thumb/drinks/8-2-drink-png-3-thumb.png"
+    },
+    {
+        "id": "3",
+        "nome": "Soups",
+        "foto": "https://i.pinimg.com/originals/f7/2e/78/f72e78facca6b485da80378ee27abd94.png"
+    },
+    {
+        "id": "4",
+        "nome": "Hamburguer",
+        "foto": "https://static.vecteezy.com/system/resources/previews/021/665/613/non_2x/beef-burger-isolated-png.png"
+    }
+    
+  ]
+  

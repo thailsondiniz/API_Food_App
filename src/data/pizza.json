@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "nome": "Mushroom Pizza",
+        "tamanho": "P",
+        "preco": 24.99,
+        "foto": "https://pngimg.com/d/pizza_PNG44090.png"
+    },
+    {
+        "id": "2",
+        "nome": "Peperoni Pizza",
+        "tamanho": "M",
+        "preco": 34.99,
+        "foto": "https://pngimg.com/uploads/pizza/small/pizza_PNG7127.png"
+    },
+    {
+        "id": "3",
+        "nome": "Catupiry Pizza",
+        "tamanho": "G",
+        "preco": 44.99,
+        "foto": "https://paradisepizzaria.com.br/site/img/produtos/281485_1_g.png"
+    }
+]
